@@ -1,0 +1,124 @@
+@media (max-width: 576px) {
+    hr{
+        visibility: hidden;
+    }
+  #header {
+    padding: 0;
+    overflow: hidden;
+    .container {
+      .d-flex {
+        .menu{
+            visibility: visible;
+            font-size: 50px;
+            color: #7C58D3;
+            margin-bottom: 50px;
+        }
+        .nav-menu{
+            visibility: hidden;
+        }
+      }
+    }
+    .card{
+        visibility: hidden;
+    }
+    .logo{
+        padding:40px;
+        background-repeat: no-repeat;
+        background-image: url(https://petopia.templatekit.co/wp-content/uploads/sites/42/2022/02/Logo.png);
+        img{
+            visibility: hidden;
+        }
+    }
+}
+    #special{
+      div{
+          padding: 50px 0px;
+        }
+    }
+    #family{
+        overflow: hidden;
+    }
+    #favorite{
+        .container-fluid{
+            .row{
+                .box{
+                    .overlay{
+            padding: 153px 0px;
+        }
+    }
+}
+}
+}
+#groom{
+    .container-fluid{
+        .row{
+            .box{
+                img{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+}
+@media (min-width: 576px) and (max-width:768px){
+    hr{
+        visibility: hidden;
+    }
+    #header {
+        padding: 0;
+        overflow: hidden;
+        .container {
+          .d-flex {
+            .menu{
+                visibility: visible;
+                font-size: 50px;
+                color: #7C58D3;
+                margin-bottom: 50px;
+            }
+            .nav-menu{
+                visibility: hidden;
+            }
+          }
+        }
+        .card{
+            visibility: hidden;
+        }
+        .logo{
+            padding:40px;
+            background-repeat: no-repeat;
+            background-image: url(https://petopia.templatekit.co/wp-content/uploads/sites/42/2022/02/Logo.png);
+            img{
+                visibility: hidden;
+            }
+        }
+    }
+    #special{
+        div{
+            padding: 50px 0px;
+          }
+      }
+      #favorite{
+        .container-fluid{
+            .row{
+                .box{
+                    .overlay{
+            padding: 233px 0px;
+            width: 96.5%;
+        }
+    }
+}
+}
+}
+#groom{
+    .container-fluid{
+        .row{
+            .box{
+                img{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+}
